@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\Desktop\New folder\AndroidStudioProjects\Firebaselogin\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="bd75f9f0296fe220da6d0ad961831b04541c4452">
+        <dex dex="E:\Desktop\New folder\AndroidStudioProjects\Firebaselogin\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-10.2.0_2f32b53ec0cbef198a2eaf01fd611b8461073cda.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Desktop\New folder\AndroidStudioProjects\Firebaselogin\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="05ba94fbfc70e7857c85af84905c79020992b6b4">
+        <dex dex="E:\Desktop\New folder\AndroidStudioProjects\Firebaselogin\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_64a3c5935c4af05529076795b9f950fbe7dbd53a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Desktop\New folder\AndroidStudioProjects\Firebaselogin\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="E:\Desktop\New folder\AndroidStudioProjects\Firebaselogin\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.4.0_24f93c8aef36f3eba6bd0dd2ac3d615f4f586db4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Desktop\New folder\AndroidStudioProjects\Firebaselogin\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="3d13e510077b35fe8e49930a627dd849ad5da0dc">
+        <dex dex="E:\Desktop\New folder\AndroidStudioProjects\Firebaselogin\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-10.2.0_fe8a68e1d83b70d720b2b5b28b1ba0a4221c47b9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Desktop\New folder\AndroidStudioProjects\Firebaselogin\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="1ac56e5801e986583cbe27f2cce57f626cc7ff93">
+        <dex dex="E:\Desktop\New folder\AndroidStudioProjects\Firebaselogin\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-10.2.0_89d9b3c11f0ff96e419500c1d3cb185887018624.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pandukapc\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0\support-annotations-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="E:\Desktop\New folder\AndroidStudioProjects\Firebaselogin\app\build\intermediates\pre-dexed\debug\support-annotations-24.0.0_f8ed878f540557a42e30c0b5240ed56b62288be5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Desktop\New folder\AndroidStudioProjects\Firebaselogin\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="E:\Desktop\New folder\AndroidStudioProjects\Firebaselogin\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.4.0_241def94d53f90fae58c54fdeb5c43be192ad01a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Desktop\New folder\AndroidStudioProjects\Firebaselogin\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="3d6951cb416ebf8c66a32b9480808ca247b68344">
+        <dex dex="E:\Desktop\New folder\AndroidStudioProjects\Firebaselogin\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-iid-10.2.0_eb7a76c8f1884c9a0aa04a5a5cf855b13b6cde82.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Desktop\New folder\AndroidStudioProjects\Firebaselogin\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ce9112e08a027c8620ae693983e38cdbb9f6371b">
+        <dex dex="E:\Desktop\New folder\AndroidStudioProjects\Firebaselogin\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-impl-10.2.0_0b01a252b0018240894ab0fa3c0ed30b0744fb7c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Desktop\New folder\AndroidStudioProjects\Firebaselogin\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="4bc4a93ad3ee1733011ff33fc45fd1339df48509">
+        <dex dex="E:\Desktop\New folder\AndroidStudioProjects\Firebaselogin\app\build\intermediates\pre-dexed\debug\instant-run_98ac12fdffd26bd3da335c4aaeba607dce2253a6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Desktop\New folder\AndroidStudioProjects\Firebaselogin\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="E:\Desktop\New folder\AndroidStudioProjects\Firebaselogin\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.0.0_db1cfb87681b431c753111dc2469b42202994e9d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Desktop\New folder\AndroidStudioProjects\Firebaselogin\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="E:\Desktop\New folder\AndroidStudioProjects\Firebaselogin\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.4.0_4d5d1de52c46549f496372d7ee1fd0380e5a0030.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Desktop\New folder\AndroidStudioProjects\Firebaselogin\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="E:\Desktop\New folder\AndroidStudioProjects\Firebaselogin\app\build\intermediates\pre-dexed\debug\internal_impl-24.0.0_81a1552d12825d1969dc06908af6029132976987.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Desktop\New folder\AndroidStudioProjects\Firebaselogin\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="0d5cbbbfe040201c7569478b70a13b58fd11aab4">
+        <dex dex="E:\Desktop\New folder\AndroidStudioProjects\Firebaselogin\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-common-10.2.0_9a9ab08753391dab29ee18aacd5ee7f7c1f6e0c1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Desktop\New folder\AndroidStudioProjects\Firebaselogin\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="48532a016bb0dfbe7970c147ce784598a515406b">
+        <dex dex="E:\Desktop\New folder\AndroidStudioProjects\Firebaselogin\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-10.2.0_b14932da9b0901e253db0fc876ba4ac34d8456d0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Desktop\New folder\AndroidStudioProjects\Firebaselogin\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="a61e7010aa7be5da53cd1bc5279630510c9a4912">
+        <dex dex="E:\Desktop\New folder\AndroidStudioProjects\Firebaselogin\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-10.2.0_14a04135360383fa72dcf0f2df50e6fa8f1d910c.jar" />
+    </item>
+
+</items>

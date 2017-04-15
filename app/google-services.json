@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "231511388312",
+    "firebase_url": "https://myfirebaseauthapp-4a0cf.firebaseio.com",
+    "project_id": "myfirebaseauthapp-4a0cf",
+    "storage_bucket": "myfirebaseauthapp-4a0cf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:231511388312:android:30249955d0d10cad",
+        "android_client_info": {
+          "package_name": "com.example.pandukapc.firebaselogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "231511388312-nlk947dcrbffk5lihjb82a732eiaonsg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkXjD1Xtv9MKrk1yU0G4iAssRSXziXens"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
